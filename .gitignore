@@ -1,0 +1,5 @@
+
+# Ignore all test related files and directories
+
+/phpunit.xml
+/tests
